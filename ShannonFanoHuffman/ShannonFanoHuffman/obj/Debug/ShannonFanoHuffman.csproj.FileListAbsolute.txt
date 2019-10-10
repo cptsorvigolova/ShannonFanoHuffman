@@ -1,0 +1,7 @@
+C:\Users\Клим\source\repos\ShannonFanoHuffman\ShannonFanoHuffman\bin\Debug\ShannonFanoHuffman.exe.config
+C:\Users\Клим\source\repos\ShannonFanoHuffman\ShannonFanoHuffman\bin\Debug\ShannonFanoHuffman.exe
+C:\Users\Клим\source\repos\ShannonFanoHuffman\ShannonFanoHuffman\bin\Debug\ShannonFanoHuffman.pdb
+C:\Users\Клим\source\repos\ShannonFanoHuffman\ShannonFanoHuffman\obj\Debug\ShannonFanoHuffman.csprojAssemblyReference.cache
+C:\Users\Клим\source\repos\ShannonFanoHuffman\ShannonFanoHuffman\obj\Debug\ShannonFanoHuffman.csproj.CoreCompileInputs.cache
+C:\Users\Клим\source\repos\ShannonFanoHuffman\ShannonFanoHuffman\obj\Debug\ShannonFanoHuffman.exe
+C:\Users\Клим\source\repos\ShannonFanoHuffman\ShannonFanoHuffman\obj\Debug\ShannonFanoHuffman.pdb
